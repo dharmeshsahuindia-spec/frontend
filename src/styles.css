@@ -1,0 +1,10 @@
+:root{
+  --accent:#f97316;
+  --bg:#ffffff;
+  --muted:#6b7280;
+}
+body{font-family:Inter, system-ui, Arial, sans-serif;background: #f3f4f6;margin:0}
+a{color:var(--accent)}
+.btn{background:var(--accent);color:#fff;padding:8px 12px;border-radius:6px;border:none}
+.card{background:#fff;border-radius:10px;padding:12px;box-shadow:0 1px 3px rgba(0,0,0,0.06)}
+.header{background:#fff;border-bottom:4px solid var(--accent)}
